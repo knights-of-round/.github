@@ -40,3 +40,19 @@
 ---
 
 👉 https://github.com/knights-of-round/.github/discussions
+
+---
+
+### 💬 Discussions & Community
+
+> 💡 **함께 고민하고 토론하는 공간입니다.** 아이디어 제안이나 질문은 언제든 환영합니다!
+
+| Category | Description | Link |
+| :--- | :--- | :---: |
+| **📢 공지사항** | 팀 전체 필독 사항 및 업데이트 뉴스 | [바로가기](https://github.com/orgs/knights-of-round/discussions/categories/announcements) |
+| **💡 아이디어** | 프로젝트의 방향성, 새로운 기능 제안 | [바로가기](https://github.com/orgs/knights-of-round/discussions/categories/ideas) |
+| **🙏 Q&A** | 개발 중 막히는 부분, 기술적인 질문 | [바로가기](https://github.com/orgs/knights-of-round/discussions/categories/q-a) |
+
+#### 🔥 Hot Topic
+- [**.github organization 화면 구성 완전 좋아!!**](https://github.com/orgs/knights-of-round/discussions/1) (👈 방금 올리신 글 링크를 여기에 넣으세요)
+- [Docker 컨테이너 메모리 최적화 방안 공유]((링크))
