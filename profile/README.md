@@ -35,16 +35,7 @@
 
 ## 💬 Community Discussions
 
-조직 공용 질문, 아이디어, 공지는 아래 Discussions에서 진행합니다.
-
----
-
-👉 https://github.com/knights-of-round/.github/discussions
-
----
-
-### 💬 Discussions & Community
-
+> 조직 공용 질문, 아이디어, 공지는 아래 Discussions에서 진행합니다.
 > 💡 **함께 고민하고 토론하는 공간입니다.** 아이디어 제안이나 질문은 언제든 환영합니다!
 
 | Category | Description | Link |
