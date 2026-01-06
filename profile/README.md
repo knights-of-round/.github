@@ -1,6 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&height=300&color=gradient&text=Knights%20of%20Round&section=header&reversal=false&desc=Project%20Organization)
-# ⚔️ Knights of the Round
-
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Knights%20of%20Round&section=header&reversal=false&desc=Project%20Organization&descAlignY=55&fontAlignY=40&textBg=false&fontColor=FFFFFFF)
 > **"Code is our Sword, Logic is our Shield."**
 > 우리는 더 나은 소프트웨어 세상을 만들기 위해 모인 개발 크루입니다.
 
