@@ -6,15 +6,15 @@
 
 ## 🛠 Tech Stack
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Java-17+-orange?logo=openjdk" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-3.x-6DB33F?logo=springboot" />
-  <img src="https://img.shields.io/badge/Next.js-16.x-000000?logo=next.js" />
-  <img src="https://img.shields.io/badge/PostgreSQL-17.x-4169E1?logo=postgresql" />
-</div>
+![JAVA] ![SPRING-BOOT]  
+![NEXT] ![POSTGRESQL]
+
+[JAVA]: https://img.shields.io/badge/Java-17+-orange?logo=openjdk
+[SPRING-BOOT]: https://img.shields.io/badge/Spring%20Boot-3.x-6DB33F?logo=springboot
+[NEXT]: https://img.shields.io/badge/Next.js-16.x-000000?logo=next.js
+[POSTGRESQL]: https://img.shields.io/badge/PostgreSQL-17.x-4169E1?logo=postgresql
 
 ---
-
 
 ## 🏗 System Architecture
 
