@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=rect&height=300&color=gradient&text=Knights%20of%20Round&section=header&reversal=false&desc=Project%20Organization)
 # ⚔️ Knights of the Round
 
 > **"Code is our Sword, Logic is our Shield."**
