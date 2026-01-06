@@ -6,8 +6,7 @@
 
 ## 🛠 Tech Stack
 
-![JAVA] ![SPRING-BOOT]  
-![NEXT] ![POSTGRESQL]
+![JAVA] ![SPRING-BOOT] ![NEXT] ![POSTGRESQL]
 
 [JAVA]: https://img.shields.io/badge/Java-17+-orange?logo=openjdk
 [SPRING-BOOT]: https://img.shields.io/badge/Spring%20Boot-3.x-6DB33F?logo=springboot
