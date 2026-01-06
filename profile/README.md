@@ -7,14 +7,14 @@
 ## 🛠 Tech Stack
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-17+-orange?logo=openjdk" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-3.x-6DB33F?logo=springboot" />
+  <img src="https://img.shields.io/badge/Next.js-16.x-000000?logo=next.js" />
+  <img src="https://img.shields.io/badge/PostgreSQL-17.x-4169E1?logo=postgresql" />
 </div>
 
 ---
+
 
 ## 🏗 System Architecture
 
