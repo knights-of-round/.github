@@ -31,13 +31,6 @@
 
 ---
 
-## 🚦 Project Status (Auto-updated)
-현재 실시간 개발 현황입니다.
-
-[👉 칸반 보드 전체 보러 가기](https://github.com/orgs/knights-of-round/projects/9)
-
----
-
 ## 💬 Community Discussions
 
 > 조직 공용 질문, 아이디어, 공지는 아래 Discussions에서 진행합니다.
