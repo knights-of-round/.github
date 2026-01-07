@@ -29,6 +29,17 @@
 ## 🚀 Projects
 👉 [**전체 개발 로드맵 & 칸반 보드 보러가기**](https://github.com/orgs/knights-of-round/projects/9)
 
+### 🔄 Workflow Process
+
+```mermaid
+stateDiagram-v2
+    [*] --> Issue생성
+    Issue생성 --> 개발중(In_Progress)
+    개발중(In_Progress) --> PR요청
+    PR요청 --> 코드리뷰
+    코드리뷰 --> Merge(완료)
+    Merge(완료) --> [*]
+
 ---
 
 ## 💬 Community Discussions
