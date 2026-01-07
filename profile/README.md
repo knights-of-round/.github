@@ -39,6 +39,7 @@ stateDiagram-v2
     PR요청 --> 코드리뷰
     코드리뷰 --> Merge(완료)
     Merge(완료) --> [*]
+```
 
 ---
 
