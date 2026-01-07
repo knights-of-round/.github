@@ -29,6 +29,8 @@
 ## 🚀 Projects
 👉 [**전체 개발 로드맵 & 칸반 보드 보러가기**](https://home.microsoftpersonalcontent.com/:fl:/g/contentstorage/CSP_8977279f-b2ed-4328-a47b-819181c4d0c6/IQKc5DRMaFdqQ70I-O0aBQCyATCCBOtALe-zTghGR17-was?e=MBRShK&nav=cz0lMkZjb250ZW50c3RvcmFnZSUyRkNTUF84OTc3Mjc5Zi1iMmVkLTQzMjgtYTQ3Yi04MTkxODFjNGQwYzYmZD1iJTIxbnlkM2llMnlLRU9rZTRHUmdjVFF4bGRDTWRiVmQtWk5ySmZZRG5sQ1pyR3k1MTBia01YWFFLWENBYmtfTW9ZdSZmPTAxSkJSTU43NDQ0UTJFWTJDWE5KQjMyQ0hZNVVOQUtBRlMmYz0lMkYmYT1Mb29wQXBwJnA9JTQwZmx1aWR4JTJGbG9vcC1wYWdlLWNvbnRhaW5lciZ4PSU3QiUyMnclMjIlM0ElMjJUMFJUVUh4b2IyMWxMbTFwWTNKdmMyOW1kSEJsY25OdmJtRnNZMjl1ZEdWdWRDNWpiMjE4WWlGdWVXUXphV1V5ZVV0RlQydGxORWRTWjJOVVVYaHNaRU5OWkdKV1pDMWFUbkpLWmxsRWJteERXbkpIZVRVeE1HSnJUVmhZVVV0WVEwRmlhMTlOYjFsMWZEQXhTa0pTVFU0M05GbFZSa2hhUTFGR1dGTlNSVmxLUWxGSlVVWlZUMHBXTWxvJTNEJTIyJTJDJTIyaSUyMiUzQSUyMjlmM2JjNzJjLTM4ZDAtNGNkYi1hNWVmLWI1ZjkwZDFiYzQ2YiUyMiU3RA%3D%3D)
 
+[![Project Roadmap Status](https://github.com/user-attachments/assets/2d5fdef7-73a2-437b-b9f9-144f5e231242)](https://github.com/orgs/knights-of-round/projects/9)
+
 ---
 
 ## 💬 Community Discussions
